@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "275020978619",
+    "firebase_url": "https://chat-app-ice-b318c.firebaseio.com",
+    "project_id": "chat-app-ice-b318c",
+    "storage_bucket": "chat-app-ice-b318c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275020978619:android:98fa5a63e6eeffbe600c9e",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275020978619-t6k45c0hkrr0ljoib8vove82krg7gt4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "b3331451072fcc592238b138b6948b2c5f3a1cb0"
+          }
+        },
+        {
+          "client_id": "275020978619-fgg5uk3cef15oj87rf90i86c2vlq2fqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWpOW2KgwBBwkDIYmDhHBO6aUxG-lP6kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275020978619-fgg5uk3cef15oj87rf90i86c2vlq2fqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
